@@ -1,1 +1,1 @@
-new branch second file
+new branch second file true merge text
