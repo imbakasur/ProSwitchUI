@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 from new_branch and renamed this to first_branch
+=======
+from new_branch renamed this to first_branch
+>>>>>>> Stashed changes
